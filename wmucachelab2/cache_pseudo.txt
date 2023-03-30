@@ -1,0 +1,60 @@
+
+
+class C_set
+	init (tag, b)
+	self.v = 0
+	self.tag = none
+	self.b = none
+
+	get_v()
+		return v
+	get_tag()
+		return tag
+	get_b()
+		return b
+
+cache_2d_list = [[set0][set1][set2].................[setn]]
+
+
+def main()
+	read arg
+		h = arg[1]
+		v = arg[2]
+		s = arg[3]
+		e = arg[4]
+		b = arg[5]
+		t = arg[6]
+
+	cache_2d_list = call cache(s,e)
+	open file
+	while (end of line)
+		read line
+		if i -> skip()
+		if l -> call load()
+		if s -> call store()
+		if m -> call load() and store()
+
+
+def cache(s, e)
+	initiate cache
+	return 2d list
+
+
+
+def load(addr, b)
+		
+
+
+
+def store(add, b)
+
+
+
+
+
+
+
+
+
+if __name__ = __main__
+	call main()
